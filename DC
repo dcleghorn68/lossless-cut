@@ -1,0 +1,1 @@
+Recorded mp4 video at 720 and 1080. Upon dropping into losslesscut, it says: "File not natively supported." After trimming it, when attempting to export it, it says: "Unable to export this file" in mp4. Only allows export in mov format.
